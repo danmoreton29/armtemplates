@@ -106,7 +106,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/rohitnikhal/ACC_ARM_Templates/working-final/updateVMEncryption.json",
+                    "uri": "https://raw.githubusercontent.com/danmoreton29/armtemplates/master/Windows/updateVMEncryption.json",
                     "contentVersion": "1.0.0.0"
                 },
                 "parameters": {
