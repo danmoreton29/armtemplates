@@ -20,9 +20,6 @@
       "name": "[parameters('nicName')]",
       "apiVersion": "2015-06-15",
       "location": "[resourceGroup().location]",
-      "tags": {
-        "Role": "Web Server"
-      },
       "dependsOn": [
       ],
       "properties": {
